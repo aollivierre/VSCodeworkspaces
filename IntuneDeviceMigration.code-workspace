@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Managed_Blog"
+		},
+		{
+			"path": "../Modules/EnhancedVPNAO"
+		},
+		{
+			"path": "../Intune-Win32-Deployer/Win32Apps-Gallery/PR4B_ExportVPNtoSPO-v6"
+		}
+	],
+	"settings": {}
+}

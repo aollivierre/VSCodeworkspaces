@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../CB/Entra/Universal"
+		},
+		{
+			"path": "../CB/Entra/EntraExporter"
+		},
+		{
+			"path": "../Modules"
+		},
+		{
+			"path": "../Microsoft365DSC/exporter"
+		},
+		{
+			"path": "../../Export"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../CB/DB/PSQL/CaRMS/postgres"
+		},
+		{
+			"path": "../CB/DB/PSQL"
+		}
+	],
+	"settings": {}
+}

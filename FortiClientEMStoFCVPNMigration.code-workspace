@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../Bellwoods/GH/GH/Intune/App/FortiClientEMSv7_Bellwoods-v5"
+		},
+		{
+			"path": "../Bellwoods/GH/GH/Intune/App/FortiClientEMSV6_v6"
+		},
+		{
+			"path": "../Intune-Win32-Deployer/Win32Apps-Gallery/DattoEDR-v4"
+		},
+		{
+			"path": "../appgallery/Intune-Win32-Deployer/apps-winget-repo/FortiClientVPNv7_v4-CHFC"
+		}
+	],
+	"settings": {}
+}

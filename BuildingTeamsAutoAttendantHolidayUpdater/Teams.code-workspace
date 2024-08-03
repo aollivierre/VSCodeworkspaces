@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../CB/Teams"
+		},
+		{
+			"path": "../../GraphAppwithCert"
+		},
+		{
+			"path": "../../Modules"
+		},
+		{
+			"path": "../../Intune-Win32-Deployer"
+		},
+		{
+			"path": "../../Microsoft365DSC"
+		}
+	],
+	"settings": {}
+}

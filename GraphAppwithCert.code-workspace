@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../GraphAppwithCert"
+		},
+		{
+			"path": "../Modules/EnhancedAO.Graph.SignInLogs"
+		},
+		{
+			"path": "../Modules/EnhancedGraphAO"
+		},
+		{
+			"path": "../CB/Entra/Compliance"
+		},
+		{
+			"path": "../Modules/EnhancedBoilerPlateAO"
+		}
+	],
+	"settings": {}
+}

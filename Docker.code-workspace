@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../CB/Docker"
+		},
+		{
+			"path": "../CB/Terminal"
+		},
+		{
+			"path": "../devcontainer"
+		}
+	],
+	"settings": {}
+}
