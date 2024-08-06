@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"path": "../modules-beta/EnhancedLoggingAO"
+		},
+		{
+			"path": "../../Program Files/PowerShell/Modules/Microsoft365DSC"
+		},
+		{
+			"path": "../../Program Files/PowerShell/Modules/EntraExporter"
+		},
+		{
+			"path": "../../Program Files/PowerShell/Modules/Plaster"
+		},
+		{
+			"path": "../../Program Files/PowerShell/Modules/Sampler"
+		},
+		{
+			"path": "../modules-beta/EnhancedLoggingAO-Sampler-Simple"
+		},
+		{
+			"path": "../modules-beta/EnhancedLoggingAO-Sampler-Complete"
+		},
+		{
+			"path": "../../Program Files/PowerShell/Modules/ModuleTools"
+		},
+		{
+			"path": "../modules-beta/EnhancedLoggingAO-ModuleTools-Simple"
+		},
+		{
+			"path": "../modules-beta/EnhancedLoggingAO-Sampler-Simple-BTP"
+		},
+		{
+			"path": "../modules-beta/PSGallery"
+		},
+		{
+			"path": "../Modules"
+		},
+		{
+			"path": "../modules-beta/Sampler"
+		},
+		{
+			"path": "../modules-beta/EnhancedBoilerPlateAO-Sampler-Simple-BTP"
+		},
+		{
+			"path": "../modules-beta/EnhancedSchedTaskAO-Sampler-Simple-BTP"
+		},
+		{
+			"path": "../modules-beta"
+		}
+	],
+	"settings": {}
+}
