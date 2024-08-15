@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../CB/ModuleBuilder"
+		},
+		{
+			"path": "../setuplab"
+		},
+		{
+			"path": "../ModulesV2"
+		},
+		{
+			"path": "../modules-beta2"
+		},
+		{
+			"path": "../module-starter"
+		}
+	],
+	"settings": {}
+}
