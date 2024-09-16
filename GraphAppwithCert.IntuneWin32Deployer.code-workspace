@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../GraphAppwithCert"
+		},
+		{
+			"path": "../Intune-Win32-Deployer"
+		},
+		{
+			"path": "../CB/WinUpdates"
+		},
+		{
+			"path": "../ModulesV2"
+		}
+	],
+	"settings": {}
+}
