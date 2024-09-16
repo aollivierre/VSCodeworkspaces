@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../MSIdentityTools"
+		},
+		{
+			"path": "../EnhancedAO.Graph.SignInLogs"
+		},
+		{
+			"path": "../CB/Entra/Compliance"
+		},
+		{
+			"path": "../GraphAppwithCert"
+		},
+		{
+			"path": "../CB/Entra/ConditionalAccess"
+		},
+		{
+			"path": "../CB/Entra/Universal/CAP"
+		}
+	],
+	"settings": {}
+}
