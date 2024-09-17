@@ -7,10 +7,16 @@
 			"path": "../Intune-Win32-Deployer"
 		},
 		{
-			"path": "../CB/WinUpdates"
+			"path": "../ModulesV2"
 		},
 		{
-			"path": "../ModulesV2"
+			"path": "../WinUpdates"
+		},
+		{
+			"path": "../appgallery"
+		},
+		{
+			"path": "../IntuneDeviceMigration"
 		}
 	],
 	"settings": {}

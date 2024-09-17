@@ -4,10 +4,16 @@
 			"path": "../CB/Docker"
 		},
 		{
-			"path": "../CB/Terminal"
+			"path": "../devcontainer"
 		},
 		{
-			"path": "../devcontainer"
+			"path": "../Terminal"
+		},
+		{
+			"path": "../module-starter"
+		},
+		{
+			"path": "../Modulesv2"
 		}
 	],
 	"settings": {}
