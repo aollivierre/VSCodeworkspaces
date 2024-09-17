@@ -14,6 +14,12 @@
 		},
 		{
 			"path": "../Modulesv2"
+		},
+		{
+			"path": "../CB/ModuleBuilder"
+		},
+		{
+			"path": "../setuplab"
 		}
 	],
 	"settings": {}
