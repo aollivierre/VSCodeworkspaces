@@ -1,9 +1,6 @@
 {
 	"folders": [
 		{
-			"path": "../CB/Docker"
-		},
-		{
 			"path": "../devcontainer"
 		},
 		{
@@ -20,6 +17,9 @@
 		},
 		{
 			"path": "../setuplab"
+		},
+		{
+			"path": "../docker"
 		}
 	],
 	"settings": {}
