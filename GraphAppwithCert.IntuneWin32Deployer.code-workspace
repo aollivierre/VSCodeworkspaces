@@ -17,6 +17,33 @@
 		},
 		{
 			"path": "../IntuneDeviceMigration"
+		},
+		{
+			"path": "../CB/Entra/ConditionalAccess"
+		},
+		{
+			"path": "../CB/Entra/Compliance"
+		},
+		{
+			"path": "../../Program Files/WindowsPowerShell"
+		},
+		{
+			"path": "../module-starter"
+		},
+		{
+			"path": "../WinGet-Wrapper"
+		},
+		{
+			"path": "../CB/PATH"
+		},
+		{
+			"path": "../CB/Custom_Compliance_Gallery"
+		},
+		{
+			"path": "../CB/Intune/Notification"
+		},
+		{
+			"path": "../CB/Entra/Helpers"
 		}
 	],
 	"settings": {}
