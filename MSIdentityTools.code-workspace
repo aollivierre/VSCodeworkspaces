@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "../CB/Entra/Universal/CAP"
+		},
+		{
+			"path": "../CA"
 		}
 	],
 	"settings": {}
